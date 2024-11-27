@@ -2,3 +2,4 @@
 ITMO University course
 ## [Лабораторная работа №1](./lab1/lab1_report.md)
 ## [Лабораторная работа №2](./lab2/lab2_report.md)
+## [Лабораторная работа №3](./lab3/lab3_report.md)
